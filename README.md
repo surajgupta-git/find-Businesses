@@ -1,5 +1,6 @@
 # find-businesses
-go to a directory and run "create-react-app project_name" then replace the src and public folder with the one in repository. then open the terminal in that directory and run "npm start" command browser opens automatically
+Go to a particular directory and run "create-react-app project_name" then replace the src and public folder with the one in repository. Open the terminal in that directory and run "npm start" command browser opens automatically.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
